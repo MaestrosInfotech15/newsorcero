@@ -1,0 +1,102 @@
+[06-Mar-2018 07:07:54 Etc/GMT] PHP Fatal error:  Call to a member function categories() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 156
+[06-Mar-2018 07:07:57 Etc/GMT] PHP Fatal error:  Call to a member function categories() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 156
+[06-Mar-2018 07:08:05 Etc/GMT] PHP Fatal error:  Call to a member function categories() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 156
+[06-Mar-2018 07:11:02 Etc/GMT] PHP Fatal error:  Call to a member function categories() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 154
+[06-Mar-2018 07:11:03 Etc/GMT] PHP Fatal error:  Call to a member function categories() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 154
+[06-Mar-2018 07:11:04 Etc/GMT] PHP Fatal error:  Call to a member function categories() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 154
+[06-Mar-2018 07:12:23 Etc/GMT] PHP Fatal error:  Call to a member function categories() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 154
+[06-Mar-2018 07:22:57 Etc/GMT] PHP Fatal error:  Call to a member function get_total_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 154
+[06-Mar-2018 07:23:04 Etc/GMT] PHP Fatal error:  Call to a member function get_total_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 154
+[06-Mar-2018 08:27:57 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:28:00 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:29:57 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:30:00 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:30:01 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:31:40 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:31:41 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:33:12 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:33:14 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 08:33:15 Etc/GMT] PHP Fatal error:  Call to a member function get_list_category() on a non-object in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 44
+[06-Mar-2018 10:12:11 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 2406
+[06-Mar-2018 10:12:14 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 2406
+[06-Mar-2018 10:12:16 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/maestxno/public_html/sorcero/application/views/dashboard/course.php on line 2406
+[06-Mar-2018 13:22:15 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/User_model.php on line 30
+[06-Mar-2018 13:22:17 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/User_model.php on line 30
+[06-Mar-2018 13:22:18 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/User_model.php on line 30
+[06-Mar-2018 13:22:21 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/User_model.php on line 30
+[06-Mar-2018 13:22:35 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/User_model.php on line 30
+[07-Mar-2018 12:14:24 Etc/GMT] PHP Fatal error:  Call to a member function insertData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 122
+[07-Mar-2018 12:16:53 Etc/GMT] PHP Fatal error:  Call to a member function insertData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 123
+[07-Mar-2018 12:18:01 Etc/GMT] PHP Fatal error:  Call to a member function insertData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 123
+[07-Mar-2018 12:19:49 Etc/GMT] PHP Fatal error:  Call to a member function insertData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 123
+[07-Mar-2018 12:19:51 Etc/GMT] PHP Fatal error:  Call to a member function insertData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 123
+[07-Mar-2018 12:29:36 Etc/GMT] PHP Fatal error:  Call to undefined function insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 124
+[07-Mar-2018 12:29:41 Etc/GMT] PHP Fatal error:  Call to undefined function insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 124
+[07-Mar-2018 13:14:39 Etc/GMT] PHP Fatal error:  Call to undefined method Student_group_model::get_total_group() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 100
+[07-Mar-2018 13:14:42 Etc/GMT] PHP Fatal error:  Call to undefined method Student_group_model::get_total_group() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 100
+[07-Mar-2018 13:15:26 Etc/GMT] PHP Fatal error:  Call to undefined method Student_group_model::get_total_group() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 100
+[07-Mar-2018 13:15:28 Etc/GMT] PHP Fatal error:  Call to undefined method Student_group_model::get_total_group() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 100
+[07-Mar-2018 13:15:29 Etc/GMT] PHP Fatal error:  Call to undefined method Student_group_model::get_total_group() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 100
+[07-Mar-2018 13:15:30 Etc/GMT] PHP Fatal error:  Call to undefined method Student_group_model::get_total_group() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 100
+[07-Mar-2018 13:15:31 Etc/GMT] PHP Fatal error:  Call to undefined method Student_group_model::get_total_group() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 100
+[07-Mar-2018 13:15:37 Etc/GMT] PHP Fatal error:  Call to undefined method Student_group_model::get_total_group() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 100
+[07-Mar-2018 13:17:17 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:17:18 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:17:19 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:17:20 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:17:21 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:17:41 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:17:42 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:18:33 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:18:34 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:20:29 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:20:30 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:20:31 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:20:32 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:21:12 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:21:27 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:21:29 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:21:45 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:21:47 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:25:01 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:25:02 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:27:04 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:27:06 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:29:19 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[07-Mar-2018 13:29:21 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Student_group_model.php on line 34
+[12-Mar-2018 09:58:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 267
+[12-Mar-2018 09:58:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 267
+[12-Mar-2018 09:58:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 267
+[12-Mar-2018 10:23:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 'edit' (T_STRING), expecting variable (T_VARIABLE) in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 218
+[12-Mar-2018 10:23:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'edit' (T_STRING), expecting variable (T_VARIABLE) in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 218
+[12-Mar-2018 12:00:52 Etc/GMT] PHP Fatal error:  Call to a member function updateData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Categories.php on line 234
+[12-Mar-2018 12:00:55 Etc/GMT] PHP Fatal error:  Call to a member function updateData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Categories.php on line 234
+[12-Mar-2018 12:01:19 Etc/GMT] PHP Fatal error:  Call to a member function updateData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Categories.php on line 234
+[12-Mar-2018 12:02:16 Etc/GMT] PHP Fatal error:  Call to a member function updateData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Categories.php on line 234
+[12-Mar-2018 12:02:20 Etc/GMT] PHP Fatal error:  Call to a member function updateData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Categories.php on line 234
+[12-Mar-2018 12:23:08 Etc/GMT] PHP Fatal error:  Call to a member function updateData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Instructor.php on line 261
+[12-Mar-2018 12:23:18 Etc/GMT] PHP Fatal error:  Call to a member function updateData() on a non-object in /home/maestxno/public_html/sorcero/application/controllers/Instructor.php on line 261
+[12-Mar-2018 12:58:40 Etc/GMT] PHP Fatal error:  Call to undefined method Course_model::insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 91
+[12-Mar-2018 12:59:57 Etc/GMT] PHP Fatal error:  Call to undefined method Course_model::insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 90
+[12-Mar-2018 13:02:54 Etc/GMT] PHP Fatal error:  Call to undefined method Course_model::insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 90
+[12-Mar-2018 13:03:53 Etc/GMT] PHP Fatal error:  Call to undefined method Course_model::insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 71
+[12-Mar-2018 13:04:11 Etc/GMT] PHP Fatal error:  Call to undefined method Course_model::insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 71
+[12-Mar-2018 13:05:51 Etc/GMT] PHP Fatal error:  Call to undefined method Course_model::insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 71
+[12-Mar-2018 13:09:41 Etc/GMT] PHP Fatal error:  Call to undefined method Course_model::insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 71
+[12-Mar-2018 13:10:20 Etc/GMT] PHP Fatal error:  Call to undefined method Course_model::insertData() in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 71
+[12-Mar-2018 13:27:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 95
+[12-Mar-2018 13:28:00 Etc/GMT] PHP Parse error:  syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 95
+[12-Mar-2018 13:29:25 Etc/GMT] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/maestxno/public_html/sorcero/application/controllers/Dashboard.php on line 96
+[12-Mar-2018 13:44:59 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:45:02 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:45:04 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:46:07 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:46:09 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:46:10 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:46:47 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:46:48 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:48:14 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:48:15 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:48:52 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:51:50 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
+[12-Mar-2018 13:53:14 Etc/GMT] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/maestxno/public_html/sorcero/application/models/Course_model.php on line 32
